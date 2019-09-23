@@ -11,11 +11,11 @@ If you have any questions regarding the pre-processing of the data, the sonifica
 For now, you can listen to some HRV-music!
 
 ## Examples from the Synchronous Exercise Condition
-<audio src="R1syncExercise.mp3" controls>
-<audio src="R4syncExercise.mp3" controls>
-<audio src="R5syncExercise.mp3" controls>
+<audio src="R1syncExercise.mp3" controls></audio>
+<audio src="R4syncExercise.mp3" controls></audio>
+<audio src="R5syncExercise.mp3" controls></audio>
 
 ## Examples from the Asynchronous Condition
-<audio src="R1async.mp3" controls>
-<audio src="R2async.mp3" controls>
-<audio src="R5async.mp3" controls>
+<audio src="R1async.mp3" controls></audio>
+<audio src="R2async.mp3" controls></audio>
+<audio src="R5async.mp3" controls></audio>
