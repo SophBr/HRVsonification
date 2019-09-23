@@ -1,4 +1,4 @@
-# HRVsonification
+# The Sonification of Heart Rate Variability
 Sound examples of Heart Rate Variability Data sonified with SuperCollider
 
 These examples have been created as part of my bachelor's thesis.
