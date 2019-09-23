@@ -11,6 +11,6 @@ If you have any questions regarding the pre-processing of the data, the sonifica
 For now, you can listen to some HRV-music!
 
 ## Examples from the Synchronous Exercise Condition
-<audio src="/SophBr/HRVsonification/R1syncExercise.mp3" controls>
+<audio src="R1syncExercise.mp3" controls>
 
 ## Examples from the Asynchronous Condition
