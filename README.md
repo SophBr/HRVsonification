@@ -8,4 +8,4 @@ The Heart Rate Variability data (RR-intervals) was z-transformed for each partic
 
 If you have any questions regarding the pre-processing of the data, the sonification with SuperCollider or the design of the experiment, please let me know! I will do my best to upload the code and more details about the thesis as soon as it is done and graded.
 
-<audio src="/SophBr/HRVsonification/R1SyncExercise.mp3" controls>
+<audio src="/SophBr/HRVsonification/R1syncExercise.mp3" controls>
