@@ -20,9 +20,9 @@ For now, you can listen to some HRV-music!
 <audio src="R2async.mp3" controls></audio>
 <audio src="R5async.mp3" controls></audio>
 
-</br>
 
-## Just for fun!
+
+## Some more sonifications just for fun!
 The following are not part of my thesis (because I found this program the day before I turned in my thesis), but other fun sonifications I made with TwoTone.
 ### The second asynchronous example played by a church organ
 <audio src="R2asyncChurch.mp3" controls></audio>
