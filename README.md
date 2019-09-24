@@ -25,3 +25,5 @@ For now, you can listen to some HRV-music!
 The following are not part of my thesis, but other fun sonifications I made with TwoTone.
 ### The second asynchronous example played by a church organ
 <audio src="R2asyncChurch.mp3" controls></audio>
+### The second synchronous example played by a violin
+<audio src="R4syncViolin.mp3" controls></audio>
