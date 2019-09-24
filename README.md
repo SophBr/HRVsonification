@@ -20,10 +20,14 @@ For now, you can listen to some HRV-music!
 <audio src="R2async.mp3" controls></audio>
 <audio src="R5async.mp3" controls></audio>
 
+</br>
 
 ## Just for fun!
-The following are not part of my thesis, but other fun sonifications I made with TwoTone.
+The following are not part of my thesis (because I found this program the day before I turned in my thesis), but other fun sonifications I made with TwoTone.
 ### The second asynchronous example played by a church organ
 <audio src="R2asyncChurch.mp3" controls></audio>
 ### The second synchronous example played by a violin
 <audio src="R4syncViolin.mp3" controls></audio>
+### The second synchronous example played by two pianos (one for each person in the dyad)
+Be aware that these are just the raw RR-interval data streams that have not been z-transformed yet.
+<audio src="R4sync2Pianos.mp3" controls></audio>
