@@ -18,6 +18,8 @@ R4
 R5
 <audio src="R5syncExercise.mp3" controls></audio>
 
+<br>
+
 ## Examples from the Asynchronous Condition
 R1
 <audio src="R1async.mp3" controls></audio>
@@ -26,7 +28,7 @@ R2
 R5
 <audio src="R5async.mp3" controls></audio>
 
-
+<br>
 
 ## Some more sonifications just for fun!
 The following are not part of my thesis (because I found this program the day before I turned in my thesis), but other fun sonifications I made with TwoTone.
